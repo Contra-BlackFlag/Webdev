@@ -2,12 +2,14 @@ h1{
 color : white;
 background : Black;
 font-family: sans-serif;
+text-align: center;
 }
 #falafal{
     color: #000;
     background-color: goldenrod;
     font-family: sans-serif;
     text-transform: uppercase;
+    text-align: center;
 
 }
 #pasta{
@@ -15,7 +17,14 @@ font-family: sans-serif;
     background-color: green;
     font-family: sans-serif;
     text-transform: uppercase;
+    text-align: center;
 }
-button :hover{
-    color: Pink;
+.parent{
+    border: red solid 10px;
+}
+.child{
+    width: 50%;
+    padding: 20px;
+    border : 4px solid green;
+    margin : auto;
 }
