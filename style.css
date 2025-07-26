@@ -1,0 +1,21 @@
+h1{
+color : white;
+background : Black;
+font-family: sans-serif;
+}
+#falafal{
+    color: #000;
+    background-color: goldenrod;
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+}
+#pasta{
+    color : black;
+    background-color: green;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+button :hover{
+    color: Pink;
+}
